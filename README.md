@@ -1,6 +1,6 @@
 # 끝말잇기
 
-참가자: 권소정, 김용범, 황종인
+**참가자: 권소정, 김용범, 황종인**
 
 ![chu](https://i.pinimg.com/originals/0c/b5/7c/0cb57ca1043f34fb720c5630a3677e99.gif)
 
