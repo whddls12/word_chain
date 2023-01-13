@@ -1,5 +1,7 @@
 # 끝말잇기
 
+![chu](https://i.pinimg.com/originals/0c/b5/7c/0cb57ca1043f34fb720c5630a3677e99.gif)
+
 >## 규칙
 >1. 한방단어 금지!
 >2. 화학원소 금지!
